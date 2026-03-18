@@ -1,99 +1,86 @@
-# HeliosSecurePassword
-Helios Secure Password v1.0.0
-email: devhansoft@gmail.com
-Licença: Este projeto utiliza uma licença proprietária.
+# 🔐 Helios Secure Password
 
-
-## SOBRE O PROJETO
-
-Helios Secure Password é um gerenciador de senhas seguro desenvolvido
-para armazenar credenciais de forma criptografada diretamente no
-dispositivo do usuário.
-
-O software permite organizar logins, senhas e anotações em categorias,
-garantindo acesso rápido e seguro às informações sensíveis.
-
-Todos os dados são protegidos por criptografia forte e permanecem
-**exclusivamente no dispositivo do usuário**, sem qualquer envio
-para servidores externos.
+**Helios Secure Password v1.0.0**  
+📧 Email: devhansoft@gmail.com  
+📜 Licença: Proprietária (veja `LICENSE.md`)
 
 ---
 
-## FUNCIONALIDADES PRINCIPAIS
+## 📖 Sobre o Projeto
 
-1. **Armazenamento Seguro de Credenciais**
-   - Guarda logins, senhas e notas criptografadas.
-   - Proteção baseada em senha mestra.
+O **Helios Secure Password** é um gerenciador de senhas seguro desenvolvido para armazenar credenciais de forma criptografada diretamente no dispositivo do usuário.
 
-2. **Criptografia Avançada**
-   - Utiliza algoritmos modernos de criptografia.
-   - Dados armazenados localmente de forma segura.
+O software permite organizar logins, senhas e anotações em categorias, garantindo acesso rápido e seguro às informações sensíveis.
 
-3. **Interface Moderna**
-   - Interface gráfica intuitiva com PySide6 (Qt).
-   - Organização por categorias.
-
-4. **Gerador de Senhas**
-   - Gera senhas fortes automaticamente.
-   - Evita caracteres ambíguos para melhor usabilidade.
-
-5. **Sistema de Backup Criptografado**
-   - Exportação segura dos dados.
-   - Importação protegida por senha.
-
-6. **Bloqueio Automático**
-   - Opções de bloqueio após inatividade.
-   - Proteção contra acesso não autorizado.
+🔒 Todos os dados permanecem **exclusivamente no dispositivo do usuário**, sem qualquer envio para servidores externos.
 
 ---
 
-## SEGURANÇA E PRIVACIDADE
+## ⚙️ Funcionalidades Principais
 
-- O programa funciona 100% offline.
-- Nenhum dado é enviado pela internet.
-- Nenhuma conta ou cadastro é necessário.
+### 🔐 Armazenamento Seguro
+- Guarda logins, senhas e notas criptografadas  
+- Proteção baseada em senha mestra  
 
-IMPORTANTE:
+### 🛡️ Criptografia Avançada
+- Utiliza algoritmos modernos de criptografia  
+- Dados armazenados localmente com segurança  
 
-- A senha mestra NÃO pode ser recuperada.
-- A perda da senha resultará na perda permanente dos dados.
+### 🖥️ Interface Moderna
+- Interface gráfica com PySide6 (Qt)  
+- Organização por categorias  
 
-Este software é ideal para uso pessoal e ambientes que exigem alto
-nível de privacidade.
+### 🔑 Gerador de Senhas
+- Gera senhas fortes automaticamente  
+- Evita caracteres ambíguos  
 
----
+### 💾 Backup Criptografado
+- Exportação segura de dados  
+- Importação protegida por senha  
 
-## LICENÇAS
-
-Este software é distribuído sob uma licença proprietária.
-
-Consulte o arquivo LICENSE.txt para mais detalhes.
-
-O programa utiliza bibliotecas de terceiros, incluindo:
-
-- Python (PSF License)
-- PySide6 (LGPL)
-- cryptography (Open Source License)
+### ⏱️ Bloqueio Automático
+- Bloqueio após inatividade  
+- Proteção contra acesso não autorizado  
 
 ---
 
-## AVISO LEGAL
+## 🔒 Segurança e Privacidade
 
-O Helios Secure Password é fornecido "no estado em que se encontra"
-("AS IS"), sem garantias de qualquer tipo.
+- ✅ 100% offline  
+- ✅ Nenhum dado é enviado pela internet  
+- ✅ Nenhuma conta necessária  
+
+### ⚠️ Importante
+
+- A senha mestra **não pode ser recuperada**  
+- A perda da senha resultará na perda permanente dos dados  
+
+---
+
+## 📜 Licença
+
+Este software é distribuído sob uma **licença proprietária**.
+
+---
+
+## ⚖️ Aviso Legal
+
+O software é fornecido **"AS IS" (no estado em que se encontra)**, sem garantias de qualquer tipo.
 
 O desenvolvedor não se responsabiliza por:
 
-- Perda de dados devido ao esquecimento da senha mestra
-- Uso indevido do software
-- Falhas decorrentes do ambiente do usuário
+- Perda de dados  
+- Uso inadequado do software  
+- Falhas no ambiente do usuário  
 
 ---
 
-## CONTATO E SUPORTE
+## 📬 Contato e Suporte
 
-Dúvidas, sugestões ou relatórios de bugs podem ser enviados para:
+Dúvidas, sugestões ou relatórios de bugs:
 
-E-mail: devhansoft@gmail.com
+📧 **devhansoft@gmail.com**
 
-Obrigado por utilizar o Helios Secure Password!
+---
+
+⭐ Se você curtiu o projeto, considere dar uma estrela no repositório!
