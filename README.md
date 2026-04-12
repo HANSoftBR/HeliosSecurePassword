@@ -1,4 +1,9 @@
 # 🔐 Helios Secure Password
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
+
+> **Status:** Descontinuado  
+> Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
 **Helios Secure Password v1.0.0**  
 📧 Email: devhansoft@gmail.com  
